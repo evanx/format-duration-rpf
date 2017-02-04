@@ -1,11 +1,16 @@
 {
-  "name": "format-duration-rpf",
-  "version": "0.1.0",
+  "name": "@evanx/format-duration-rpf",
+  "version": "0.2.0",
   "description": "Format string of a duration e.g. '2 hours'",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "@evanxsummers",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanx/format-duration-rpf.git"
+  },
+  "homepage": "https://github.com/evanx/format-duration-rpf"
 }
